@@ -1,4 +1,7 @@
 Test sample done test 2nd
+<<<<<<< HEAD
+new
+=======
 finally I did
 test
 
@@ -9,3 +12,4 @@ testing
 adsfaf
 
 asdf
+>>>>>>> master
